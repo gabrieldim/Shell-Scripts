@@ -6,5 +6,5 @@
 - Sorting
 - Рestaurant
 
-#### This is part of my learning of operating systems.
+#### This is part of my learning of operating systems. 
 
